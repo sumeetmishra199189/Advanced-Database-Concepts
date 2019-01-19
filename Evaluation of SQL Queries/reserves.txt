@@ -1,0 +1,10 @@
+22,	101,	'Monday'
+22,	102,	'Tuesday'
+22,	103,	'Wednesday'
+31,	102,	'Thursday'
+31,	103,	'Friday'
+31,      104,	'Saturday'
+64,	101,	'Sunday'
+64,	102,	'Monday'
+74,	102,	'Saturday'
+
